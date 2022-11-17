@@ -7,3 +7,7 @@ some descriptions!!!.
 
 
 Watch youtube tutorials on Git.
+
+# Local development.
+
+1. Open index.html in your browser.
